@@ -29,9 +29,7 @@
 
 module Herviboro
 DEFINIR = 'Sólo me alimento de vegetales!'
-  # def self.definir
-  #   @@definir
-  # end
+
   def dieta
     "Soy un Herviboro!"
   end
